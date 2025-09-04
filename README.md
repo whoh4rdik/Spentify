@@ -12,11 +12,11 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4.17-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 [![Prisma](https://img.shields.io/badge/Prisma-6.11.1-2D3748?style=for-the-badge&logo=prisma)](https://www.prisma.io/)
 
-[Ì∫Ä Live Demo](https://your-demo-link.com) ‚Ä¢ [Ì≥ñ Documentation](https://github.com/whoh4rdik/Spentify-AI-New/wiki) ‚Ä¢ [Ì∞õ Report Bug](https://github.com/whoh4rdik/Spentify-AI-New/issues)
+[Ì∫Ä Try it Here](https://next-expense-tracker-ai-sigma.vercel.app) ‚Ä¢ [Ì≥ö Documentation](https://github.com/whoh4rdik/Spentify/wiki) ‚Ä¢ [ÔøΩÔøΩ Report Bug](https://github.com/whoh4rdik/Spentify/issues)
 
 </div>
 
-## Ìºü Features
+## ‚ú® Features
 
 ### Ì¥ñ AI-Powered Intelligence
 - **Smart Categorization**: Automatically suggests expense categories using AI
@@ -24,14 +24,14 @@
 - **Interactive AI Assistant**: Get detailed explanations about your spending patterns
 - **Predictive Analytics**: Forecast future expenses based on historical data
 
-### Ì≤º Core Functionality
+### ÌæØ Core Functionality
 - **Expense Management**: Add, edit, delete, and organize expenses effortlessly
 - **Real-time Analytics**: Interactive charts and visualizations
 - **Category Management**: Customizable expense categories
 - **Data Export**: Export your financial data in various formats
 - **Responsive Design**: Seamless experience across all devices
 
-### Ì¥ê Security & Authentication
+### Ì¥í Security & Authentication
 - **Secure Authentication**: Powered by Clerk for robust user management
 - **Data Privacy**: Your financial data is encrypted and secure
 - **Role-based Access**: Multi-level user permissions
@@ -53,25 +53,30 @@
 - **API**: Next.js API Routes
 
 ### Deployment & DevOps
-- **Hosting**: Vercel (recommended)
+- **Hosting**: Vercel
 - **Database**: Railway/Supabase/PlanetScale
 - **CI/CD**: GitHub Actions
 - **Monitoring**: Built-in analytics
 
 ## Ì∫Ä Quick Start
 
-### Prerequisites
+### Ìºê Try the Live App
+**Visit the live application**: [https://next-expense-tracker-ai-sigma.vercel.app](https://next-expense-tracker-ai-sigma.vercel.app)
+
+### ÌøÉ‚Äç‚ôÇÔ∏è Local Development
+
+#### Prerequisites
 - Node.js 18+ and npm/yarn/pnpm
 - PostgreSQL database
 - Clerk account for authentication
 - OpenAI API key
 
-### Installation
+#### Installation
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/whoh4rdik/Spentify-AI-New.git
-   cd Spentify-AI-New
+   git clone https://github.com/whoh4rdik/Spentify.git
+   cd Spentify
    ```
 
 2. **Install dependencies**
@@ -87,18 +92,18 @@
    ```bash
    cp .env.example .env.local
    ```
-   
+
    Fill in your environment variables:
    ```env
    # Database
    DATABASE_URL="your-postgresql-connection-string"
-   
+
    # Clerk Authentication
    NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY="your-clerk-publishable-key"
    CLERK_SECRET_KEY="your-clerk-secret-key"
    NEXT_PUBLIC_CLERK_SIGN_IN_URL="/sign-in"
    NEXT_PUBLIC_CLERK_SIGN_UP_URL="/sign-up"
-   
+
    # OpenAI
    OPENAI_API_KEY="your-openai-api-key"
    ```
@@ -121,7 +126,7 @@
 6. **Open your browser**
    Navigate to [http://localhost:3000](http://localhost:3000)
 
-## Ì≥± Screenshots
+## Ì≥∏ Screenshots
 
 <details>
 <summary>Click to view screenshots</summary>
@@ -137,10 +142,10 @@
 
 </details>
 
-## ÌøóÔ∏è Project Structure
+## Ì∑ÇÔ∏è Project Structure
 
 ```
-Spentify-AI-New/
+Spentify/
 ‚îú‚îÄ‚îÄ app/                    # Next.js App Router
 ‚îÇ   ‚îú‚îÄ‚îÄ (auth)/            # Authentication routes
 ‚îÇ   ‚îú‚îÄ‚îÄ actions/           # Server actions
@@ -157,7 +162,7 @@ Spentify-AI-New/
 ‚îî‚îÄ‚îÄ README.md
 ```
 
-## Ì¥ß Configuration
+## ‚öôÔ∏è Configuration
 
 ### Database Setup
 1. Create a PostgreSQL database
@@ -181,10 +186,10 @@ Spentify-AI-New/
 1. **Connect your GitHub repository**
    - Go to [Vercel](https://vercel.com)
    - Import your GitHub repository
-   
+
 2. **Configure environment variables**
    - Add all your `.env.local` variables to Vercel
-   
+
 3. **Deploy**
    - Vercel will automatically deploy your app
 
@@ -193,7 +198,7 @@ Spentify-AI-New/
 - **Railway**: Direct deployment with database included
 - **Docker**: Use the included Dockerfile for containerized deployment
 
-## Ì≥ä API Documentation
+## Ì≥ö API Documentation
 
 ### Expense Endpoints
 - `GET /api/expenses` - Get all expenses
@@ -225,6 +230,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Hardik Kaushik**
 - GitHub: [@whoh4rdik](https://github.com/whoh4rdik)
 - Email: hardikkaushik594@gmail.com
+- Live App: [Spentify AI](https://next-expense-tracker-ai-sigma.vercel.app)
 
 ## Ìπè Acknowledgments
 
@@ -234,7 +240,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Prisma](https://prisma.io/) for database management
 - [Tailwind CSS](https://tailwindcss.com/) for styling
 
-## Ì≥à Roadmap
+## Ì∑∫Ô∏è Roadmap
 
 - [ ] Mobile app (React Native)
 - [ ] Budget planning features
@@ -250,6 +256,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **‚≠ê Star this repository if you find it helpful!**
 
-[Report Bug](https://github.com/whoh4rdik/Spentify-AI-New/issues) ‚Ä¢ [Request Feature](https://github.com/whoh4rdik/Spentify-AI-New/issues) ‚Ä¢ [Join Discord](https://discord.gg/your-discord)
+[Ì∫Ä Try Live App](https://next-expense-tracker-ai-sigma.vercel.app) ‚Ä¢ [Report Bug](https://github.com/whoh4rdik/Spentify/issues) ‚Ä¢ [Request Feature](https://github.com/whoh4rdik/Spentify/issues)
 
 </div>
