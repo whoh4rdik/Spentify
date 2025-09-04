@@ -1,4 +1,4 @@
-# Ì≤∞ Spentify AI - Smart Expense Tracker
+# ÔøΩÔøΩÔøΩ Spentify AI - Smart Expense Tracker
 
 <div align="center">
 
@@ -12,31 +12,31 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4.17-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 [![Prisma](https://img.shields.io/badge/Prisma-6.11.1-2D3748?style=for-the-badge&logo=prisma)](https://www.prisma.io/)
 
-[Ì∫Ä Try it Here](https://next-expense-tracker-ai-sigma.vercel.app) ‚Ä¢ [Ì≥ö Documentation](https://github.com/whoh4rdik/Spentify/wiki) ‚Ä¢ [ÔøΩÔøΩ Report Bug](https://github.com/whoh4rdik/Spentify/issues)
+[ÔøΩÔøΩÔøΩ Try it Here](https://next-expense-tracker-ai-sigma.vercel.app) ‚Ä¢ [ÔøΩÔøΩÔøΩ Documentation](https://github.com/whoh4rdik/Spentify/wiki) ‚Ä¢ [ÔøΩÔøΩ Report Bug](https://github.com/whoh4rdik/Spentify/issues)
 
 </div>
 
 ## ‚ú® Features
 
-### Ì¥ñ AI-Powered Intelligence
+### ÔøΩÔøΩÔøΩ AI-Powered Intelligence
 - **Smart Categorization**: Automatically suggests expense categories using AI
 - **Financial Insights**: Personalized spending analysis and recommendations
 - **Interactive AI Assistant**: Get detailed explanations about your spending patterns
 - **Predictive Analytics**: Forecast future expenses based on historical data
 
-### ÌæØ Core Functionality
+### ÔøΩÔøΩÔøΩ Core Functionality
 - **Expense Management**: Add, edit, delete, and organize expenses effortlessly
 - **Real-time Analytics**: Interactive charts and visualizations
 - **Category Management**: Customizable expense categories
 - **Data Export**: Export your financial data in various formats
 - **Responsive Design**: Seamless experience across all devices
 
-### Ì¥í Security & Authentication
+### ÔøΩÔøΩÔøΩ Security & Authentication
 - **Secure Authentication**: Powered by Clerk for robust user management
 - **Data Privacy**: Your financial data is encrypted and secure
 - **Role-based Access**: Multi-level user permissions
 
-## Ìª†Ô∏è Tech Stack
+## ÔøΩÔøΩÔøΩÔ∏è Tech Stack
 
 ### Frontend
 - **Framework**: Next.js 15.3.5 with App Router
@@ -58,12 +58,12 @@
 - **CI/CD**: GitHub Actions
 - **Monitoring**: Built-in analytics
 
-## Ì∫Ä Quick Start
+## ÔøΩÔøΩÔøΩ Quick Start
 
-### Ìºê Try the Live App
+### ÔøΩÔøΩÔøΩ Try the Live App
 **Visit the live application**: [https://next-expense-tracker-ai-sigma.vercel.app](https://next-expense-tracker-ai-sigma.vercel.app)
 
-### ÌøÉ‚Äç‚ôÇÔ∏è Local Development
+### ÔøΩÔøΩÔøΩ‚Äç‚ôÇÔ∏è Local Development
 
 #### Prerequisites
 - Node.js 18+ and npm/yarn/pnpm
@@ -126,7 +126,7 @@
 6. **Open your browser**
    Navigate to [http://localhost:3000](http://localhost:3000)
 
-## Ì≥∏ Screenshots
+## ÔøΩÔøΩÔøΩ Screenshots
 
 <details>
 <summary>Click to view screenshots</summary>
@@ -142,7 +142,7 @@
 
 </details>
 
-## Ì∑ÇÔ∏è Project Structure
+## ÔøΩÔøΩÔøΩÔ∏è Project Structure
 
 ```
 Spentify/
@@ -179,7 +179,7 @@ Spentify/
 2. Add it to your environment variables
 3. Customize AI prompts in `lib/ai.ts`
 
-## Ì∫Ä Deployment
+## ÔøΩÔøΩÔøΩ Deployment
 
 ### Deploy on Vercel (Recommended)
 
@@ -198,20 +198,8 @@ Spentify/
 - **Railway**: Direct deployment with database included
 - **Docker**: Use the included Dockerfile for containerized deployment
 
-## Ì≥ö API Documentation
 
-### Expense Endpoints
-- `GET /api/expenses` - Get all expenses
-- `POST /api/expenses` - Create new expense
-- `PUT /api/expenses/[id]` - Update expense
-- `DELETE /api/expenses/[id]` - Delete expense
-
-### AI Endpoints
-- `POST /api/ai/categorize` - Get AI category suggestion
-- `POST /api/ai/insights` - Generate spending insights
-- `POST /api/ai/chat` - Interactive AI assistant
-
-## Ì¥ù Contributing
+## ÔøΩÔøΩÔøΩ Contributing
 
 We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
 
@@ -221,18 +209,15 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## Ì≥Ñ License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Ì±®‚ÄçÌ≤ª Author
+## ÔøΩÔøΩÔøΩ‚ÄçÔøΩÔøΩÔøΩ Author
 
 **Hardik Kaushik**
 - GitHub: [@whoh4rdik](https://github.com/whoh4rdik)
 - Email: hardikkaushik594@gmail.com
 - Live App: [Spentify AI](https://next-expense-tracker-ai-sigma.vercel.app)
 
-## Ìπè Acknowledgments
+## ÔøΩÔøΩÔøΩ Acknowledgments
 
 - [Next.js](https://nextjs.org/) for the amazing React framework
 - [Clerk](https://clerk.dev/) for authentication
@@ -240,22 +225,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Prisma](https://prisma.io/) for database management
 - [Tailwind CSS](https://tailwindcss.com/) for styling
 
-## Ì∑∫Ô∏è Roadmap
-
-- [ ] Mobile app (React Native)
-- [ ] Budget planning features
-- [ ] Receipt scanning with OCR
-- [ ] Multi-currency support
-- [ ] Advanced reporting
-- [ ] Team collaboration features
-- [ ] Integration with banking APIs
-
----
 
 <div align="center">
 
 **‚≠ê Star this repository if you find it helpful!**
 
-[Ì∫Ä Try Live App](https://next-expense-tracker-ai-sigma.vercel.app) ‚Ä¢ [Report Bug](https://github.com/whoh4rdik/Spentify/issues) ‚Ä¢ [Request Feature](https://github.com/whoh4rdik/Spentify/issues)
+[ÔøΩÔøΩÔøΩ Try Live App](https://next-expense-tracker-ai-sigma.vercel.app) ‚Ä¢ [Report Bug](https://github.com/whoh4rdik/Spentify/issues) ‚Ä¢ [Request Feature](https://github.com/whoh4rdik/Spentify/issues)
 
 </div>
